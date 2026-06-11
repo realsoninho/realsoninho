@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=BD93F9&center=true&vCenter=true&width=620&height=55&lines=Konnichiwa!%20Eu%20sou%20o%20Soninho;Anime%20Coder%20x%20Web%20Developer;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E7%A7%81%E3%81%AE%E5%88%80%20-%20Code%20is%20my%20katana" alt="typing" />
